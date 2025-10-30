@@ -6,9 +6,9 @@
             <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/dao/Conexao.java</file>
             <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/model/Van.java</file>
             <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/model/Motorista.java</file>
-            <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/main/MainUPX2.java</file>
-            <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/view/TelaVan.java</file>
-            <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/view/TelaMotorista.java</file>
+            <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/view/PainelVan.java</file>
+            <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/view/PainelMotorista.java</file>
+            <file>file:/C:/Users/luiz/Documents/NetBeansProjects/CRUDPX2/src/view/TelaPrincipal.java</file>
         </group>
     </open-files>
 </project-private>
